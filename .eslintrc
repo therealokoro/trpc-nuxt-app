@@ -1,0 +1,7 @@
+{
+  "extends": ["@antfu"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": ["ignore"]
+  }
+}
